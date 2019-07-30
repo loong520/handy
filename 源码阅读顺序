@@ -1,0 +1,6 @@
+. 先了解epoll编程，项目中raw_example下面有例子
+. 先阅读readme，还有文档
+. 按照例子编写几个程序，试试
+. poller对epoll进行了简单的封装，出来一个可移植的接口
+. event_base是整个框架
+. conn是tcp的连接与服务器
